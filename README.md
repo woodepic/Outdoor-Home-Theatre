@@ -9,6 +9,7 @@ The enclosure utilizes a 5000BTU air conditioner, high speed fans, and a 250w he
 
 Here is a link to a video demo of V3.1.
 <https://youtu.be/Ghoxmd-oyHQ>
+
 I should mention that the enclosure is no longer using a PID control loop, as that is not sutible for a binary on/off cooling and heating system.
 Also, the servo control is now written in non-blocking code.
 Later revisions incorperate much more through testing, various bug fixes and validation logs.
