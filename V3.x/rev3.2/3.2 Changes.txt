@@ -1,0 +1,8 @@
+New features / changes:
+
+- Get rid of pid (it's just restrictive and impractical for this use case)
+	- Assess emergency need to heat with minTemp()
+	- Assess emergency need to cool with maxTemp()
+	- add specific transition states for between modes?
+	- Add backup heating at very low temp in case fan cool down is too much
+	-Have different temp regulations for different cases
