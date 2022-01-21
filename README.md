@@ -6,8 +6,7 @@ I created an enclosure for a projector, sound equiptment, and various other A/V 
 
 The enclosure utilizes a 5000BTU air conditioner, high speed fans, and a 350w heater. Using an arduino and various temperature sensors, it monitors and accounts for changes in temperature to keep the system running no matter the climate. This project also involved the construction of the physical enclosure and the weatherproof projector screen, though that is outside the scope of a github readme.
 
-Inline-style: 
-![alt text](https://github.com/woodepic/Outdoor-Home-Theatre/blob/main/src/enclosure.JPG "Logo Title Text 1")
+
 
 
 Here is a link to a video demo of V3.1.
