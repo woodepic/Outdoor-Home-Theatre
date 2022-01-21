@@ -1,6 +1,4 @@
 # Outdoor-Home-Theatre
-Firmware for a climate controlled electronics enclosure for an outdoor home theatre.
-
 
 This is a reupload of an old project, as I did not use Github at the time. This project spanned July 2018 - March 2020, and I am happy to report it is still working perfectly to this day (January 2022). 
 
